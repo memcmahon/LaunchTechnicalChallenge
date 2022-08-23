@@ -19,7 +19,8 @@ Refactor the CreditCard class - make **any** change you want, as long as the exi
 
 After you have refactored the CreditCard class, update this document with answers to the following questions:
 
-* It's not uncommon that a student just learning to program would feel comfortable with the code as it was initially provided. Is the code that you created better than the previous version? Why or why not? How would you describe the advantages/disadvantages of your refactored code to a student who is still fairly new to programming?  
+* It's not uncommon that a student just learning to program would feel comfortable with the code as it was initially provided. How would you describe the necessity of refactoring this class? 
+* How would you describe the advantages/disadvantages of your refactored code to a student who is still fairly new to programming?  
 * Are there additional changes that you would make, if given more time?
 
 
