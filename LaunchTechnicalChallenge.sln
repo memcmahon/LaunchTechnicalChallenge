@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Refactoring", "Refactoring\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Refactoring.UnitTests", "Refactoring.UnitTests\Refactoring.UnitTests.csproj", "{23573263-B010-41C0-BC28-BE71B090B54B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearestFuelStation", "NearestFuelStation\NearestFuelStation.csproj", "{70251410-4451-41FA-B4D0-F6430B974173}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NearestFuelStation", "NearestFuelStation\NearestFuelStation.csproj", "{70251410-4451-41FA-B4D0-F6430B974173}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearestFuelStation.FunctionalTests", "NearestFuelStation.FunctionalTests\NearestFuelStation.FunctionalTests.csproj", "{AA277EF0-27CC-47AA-9D56-F19765C454A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NearestFuelStation.FunctionalTests", "NearestFuelStation.FunctionalTests\NearestFuelStation.FunctionalTests.csproj", "{AA277EF0-27CC-47AA-9D56-F19765C454A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NearestFuelStationProject", "NearestFuelStationProject", "{7EF7B66D-DDFD-4D7D-BD3D-16050A476A25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RefactoringProject", "RefactoringProject", "{E20008C9-7352-4908-B8EE-563DF0CEB0F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +40,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E6E31E3D-9932-4E6E-8FCC-0FB0AF6BD798} = {E20008C9-7352-4908-B8EE-563DF0CEB0F8}
+		{23573263-B010-41C0-BC28-BE71B090B54B} = {E20008C9-7352-4908-B8EE-563DF0CEB0F8}
+		{70251410-4451-41FA-B4D0-F6430B974173} = {7EF7B66D-DDFD-4D7D-BD3D-16050A476A25}
+		{AA277EF0-27CC-47AA-9D56-F19765C454A0} = {7EF7B66D-DDFD-4D7D-BD3D-16050A476A25}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2B7759BF-F6E6-406B-BE7A-27A00151CBE4}
