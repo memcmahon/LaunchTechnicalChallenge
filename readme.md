@@ -54,7 +54,7 @@ Once you've finished, answer the questions below in this document.
 
 ## Submission
 
-In order to submit, zip this directory, upload it to google drive and email the link to the google drive folder to coree@turing.edu.
+In order to submit, zip this directory, upload it to google drive and email the link to the google drive folder to eric@turing.edu.
 
 
 
